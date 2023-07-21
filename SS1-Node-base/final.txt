@@ -1,0 +1,11 @@
+
+  <div style="margin-left:10px">
+    <br></br>
+    The avocado 🥑 is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content 😄
+    <br></br>
+    APPENDIX: Generally, avocados 🥑 are served raw, but some cultivars can be cooked for a short time without becoming bitter.
+    <br></br>
+    The avocado 🥑 is also used as the base for the Mexican dip known as guacamole, as well as a spread on corn tortillas or toast, served with spices.
+
+    </div>
+    
